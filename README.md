@@ -19,8 +19,6 @@ Each problem is solved using beginner-friendly logic and real-world relatable ap
 2. Clone the repo or download the `.py` files.
 3. Open terminal or command prompt.
 4. Run any file using:
-
-```bash
 python app.py
 
 ## 🎯 What I Learned
